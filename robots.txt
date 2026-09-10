@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://septikbratsk.ru/sitemap.xml
+Host: septikbratsk.ru
